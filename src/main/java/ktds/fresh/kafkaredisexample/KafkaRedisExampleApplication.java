@@ -8,7 +8,7 @@ public class KafkaRedisExampleApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(KafkaRedisExampleApplication.class, args);
-        System.out.println("test");
+        System.out.println("test2222");
 
 
     }
